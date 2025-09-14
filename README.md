@@ -1,4 +1,3 @@
-# word_enumerator
 # Word Enumerator / Generator
 
 A safe, configurable Python tool to **generate** or **enumerate** all possible words from selected character classes (lowercase, uppercase, digits, special characters) for a specified length or length range.
